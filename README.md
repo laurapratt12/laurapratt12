@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laura Prattico</h1>
-<h3 align="center">I am a passionate web development enthusiast currently diving deep into the world of code. 🚀 🎓 I'm a student focused on mastering the art of web development, with a particular interest in the creative and user-centric realm of front-end technologies. I'm always eager to learn and apply the latest in web design trends.</h3>
-<img align="right" alt="Coding" width="220" src="https://tse4.mm.bing.net/th?id=OIP.6qnP8ZHESN0IhK15TWdahAHaFj&pid=Api&P=0&h=180">
+<h3 align="center">I am a passionate web development enthusiast currently diving deep into the world of code!</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laurapratt12&label=Profile%20views&color=0e75b6&style=flat" alt="laurapratt12" /> </p>
 
