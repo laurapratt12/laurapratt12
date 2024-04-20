@@ -8,6 +8,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laurapratt12&show_icons=true&locale=en&layout=compact" alt="laurapratt12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laurapratt12&show_icons=true&locale=en" alt="laurapratt12" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laurapratt12&" alt="laurapratt12" /></p>
