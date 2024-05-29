@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laura Prattico</h1>
-<h3 align="center">I am a passionate web development enthusiast currently diving deep into the world of code!</h3>
+<h3 align="center">I am a passionate web development enthusiast, currently diving deep into the world of code!</h3>
 
 
 
